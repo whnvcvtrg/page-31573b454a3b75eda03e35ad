@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8ada18dd0c8c44bb43e692e2",
+  "owner": "whnvcvtrg",
+  "repo": "page-31573b454a3b75eda03e35ad",
+  "title": "BLACKKID",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "31573b454a3b75eda03e35ad",
+      "a": "BLACKKID",
+      "b": "稳定全球clash加速器",
+      "entity": "BLACKKID",
+      "brand": "BLACKKID",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a5f8df53cf18c8f070127a1aed32a91e94af16f527012737d83558d2533aff89",
+      "content": {
+        "primary_entity": "BLACKKID",
+        "keyword1": "BLACKKID",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，参考订阅导入说明完成配置。",
+          "AI_CLIENTS_TITLE": "按设备选择合适客户端",
+          "AI_CLOSING_TEXT": "选择匹配设备与流量的套餐，参考客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐即刻连接",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置和套餐对比展开说明。基础版每月 100GB 流量、支持 3 台设备，适合个人日常使用；旗舰版每月 300GB 流量、支持 5 台设备，含 IPLC 专线节点，适合游戏和多设备场景；团队版每月 1000GB 流量、支持 20 台设备，面向小团队协同。年付价格分别为 ¥150、¥350、¥850，可按周期和设备数量灵活选择。",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路类型三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐核心差异",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月用量选择。",
+          "AI_FEATURE_TEXT_2": "同时在线设备数从 3 台到 20 台，覆盖个人到团队场景。",
+          "AI_FEATURE_TEXT_3": "旗舰版与团队版提供专线及更多节点资源，适合流媒体和游戏。",
+          "AI_FEATURE_TITLE_1": "流量额度",
+          "AI_FEATURE_TITLE_2": "设备数量",
+          "AI_FEATURE_TITLE_3": "线路资源",
+          "AI_GUIDE_INTRO": "先确认使用设备与流量需求，再选择套餐并完成订阅配置。",
+          "AI_GUIDE_TITLE": "三步完成使用准备",
+          "AI_HERO_INTRO": "BLACKKID 提供多种套餐方案，适合个人和团队按设备数量与流量需求选择。基础版、旗舰版和团队版分别面向不同使用强度，年付价格更划算，配置流程清晰。",
+          "AI_HERO_SUBTITLE": "BLACKKID 多设备流量套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按流量分档",
+          "AI_HIGHLIGHT_2": "设备数量灵活可选",
+          "AI_HIGHLIGHT_3": "年付价格更实惠",
+          "AI_PLANS_INTRO": "基础版每月 100GB、旗舰版每月 300GB、团队版每月 1000GB，可按需对比。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量和同时在线设备数，在基础版、旗舰版和团队版中确定套餐。",
+          "AI_STEP_TEXT_2": "查看所选套餐支持的客户端类型和系统版本，确认设备符合适配要求。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档导入订阅信息，按说明完成配置后即可使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "BLACKKID 套餐选择",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。可按常用设备数量选择，避免多设备同时在线时互相挤占。",
+          "AI_FAQ_ANSWER_2": "基础版每月 100GB，适合浏览与轻度视频；旗舰版 300GB，适合高清流媒体和日常游戏加速；团队版 1000GB，适合多人共享或大流量下载。",
+          "AI_FAQ_ANSWER_3": "可选年付方案更划算，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年。年付适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_4": "旗舰版带 IPLC 专线游戏加速优化，并支持全节点原生流媒体解锁；基础版解锁基础流媒体，团队版拥有 VIP 专属高带宽节点。",
+          "AI_FAQ_ANSWER_5": "订阅配置时按客户端对应文档导入，不同设备步骤略有差异，建议先确认系统版本再操作，遇到问题可参考客户端说明。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "不同套餐支持多少台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "每月流量不够用可以升级套餐吗？",
+          "AI_FAQ_QUESTION_3": "按月付和按年付怎么选更划算？",
+          "AI_FAQ_QUESTION_4": "哪个套餐适合看流媒体和玩游戏？",
+          "AI_FAQ_QUESTION_5": "订阅导入客户端时要注意什么？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ffifvvu.cn",
+    "host": "ffifvvu.cn"
+  },
+  "file_hashes": {
+    "index.html": "b9d675913d34daf426c751482a2c9d064b60b202a6ae8b84810b4a68ff1af804",
+    "sitemap.xml": "9baedaefecf02a9ccc0df37110260cd65595803836e8867caf0e86bbb2d5558c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "7efbe5a8824f3c40ec92eae2fdd3d380ddf72c2502847c8d2829f2c6faa97885",
+    "robots.txt": "9482ad8d04d3d537d908db04efa0ee99d9da94471bfbb2b08c9c67b2f4a76f34",
+    "cf1907299032d82bb880b3df952083cf.txt": "61c9f5551f9036f9c357484adbeeb720093b238e4076acc77974959a305452ba"
+  },
+  "revision": "ff429d0f295c1bc2ab25f45ada85ac7bea0368c413fc5cf5765e29a7bb999c52"
+}

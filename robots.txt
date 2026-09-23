@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ffifvvu.cn/sitemap.xml
